@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="noticeJar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Jars/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars/snakeyaml-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
