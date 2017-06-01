@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NotifyInterface.iml" filepath="$PROJECT_DIR$/NotifyInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpUtil.iml" filepath="$PROJECT_DIR$/HttpUtil.iml" />
     </modules>
   </component>
 </project>
